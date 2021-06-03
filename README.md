@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pmp93-njit AKA Parth Patel
 - 👀 I’m from technical, networking and cybersecurity background and also working in a my finance degree side ny side. 
-- 🌱 I’m currently learning It490-030 at NJIT
+- 🌱 I’m currently learning IT490-030 at NJIT
 - 💞️ I’m looking to collaborate on a group project, the group nake is Web-Dev
 - 📫 Reach me on pmp93@njit.edu 
 
